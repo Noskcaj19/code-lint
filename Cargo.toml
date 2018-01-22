@@ -1,0 +1,9 @@
+[package]
+name = "code-lint"
+version = "0.1.0"
+authors = ["Noskcaj <kcajdev@gmail.com>"]
+
+[lib]
+crate-type = ["dylib"]
+
+[dependencies]
